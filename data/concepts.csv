@@ -1,0 +1,11 @@
+concept_id,concept_name
+C1,Relational model basics
+C2,"Keys (super, candidate, primary, foreign)"
+C3,Relational algebra basics
+C4,SQL SELECT basics
+C5,SQL joins
+C6,"Aggregations (GROUP BY, HAVING)"
+C7,Subqueries
+C8,Functional dependencies
+C9,Normalization (1NF–3NF)
+C10,Transactions and ACID

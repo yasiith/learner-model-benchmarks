@@ -1,0 +1,41 @@
+question_id,question_text
+Q1,What is a relation in the relational model?
+Q2,What does a tuple represent in a relation?
+Q3,What is the difference between a relation and a table?
+Q4,What is the domain of an attribute?
+Q5,What is a primary key?
+Q6,What is the difference between a candidate key and a primary key?
+Q7,What is a foreign key used for?
+Q8,Can a table have more than one candidate key?
+Q9,What does the selection operator do in relational algebra?
+Q10,What is the purpose of the projection operator?
+Q11,What does a join operation combine?
+Q12,What is the difference between selection and projection?
+Q13,What does the SELECT clause specify in SQL?
+Q14,What is the purpose of the WHERE clause?
+Q15,What does SELECT * do?
+Q16,Can a SELECT query retrieve data from multiple tables?
+Q17,What does an INNER JOIN return?
+Q18,What does a LEFT JOIN return?
+Q19,What is the difference between INNER JOIN and LEFT JOIN?
+Q20,When would you use a JOIN instead of a subquery?
+Q21,What does GROUP BY do in SQL?
+Q22,What is the purpose of the HAVING clause?
+Q23,What does COUNT(*) return?
+Q24,Can aggregate functions be used without GROUP BY?
+Q25,What is a subquery?
+Q26,Where can a subquery appear in an SQL statement?
+Q27,What is the difference between a correlated and non‑correlated subquery?
+Q28,Can a subquery return multiple rows?
+Q29,What is a functional dependency?
+Q30,What does A → B mean in functional dependency notation?
+Q31,Why are functional dependencies important?
+Q32,Can a table have multiple functional dependencies?
+Q33,What problem does normalization aim to solve?
+Q34,What is First Normal Form (1NF)?
+Q35,What distinguishes 2NF from 1NF?
+Q36,Why is normalization important in database design?
+Q37,What is a transaction in a database?
+Q38,What does atomicity mean in ACID?
+Q39,What does consistency ensure in a transaction?
+Q40,Why is isolation important?
